@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nirupama1210/pro-hooks-react.git/static/css/main.c116da79.css",
+    "main.js": "/nirupama1210/pro-hooks-react.git/static/js/main.6ac7df19.js",
+    "static/js/787.5508703c.chunk.js": "/nirupama1210/pro-hooks-react.git/static/js/787.5508703c.chunk.js",
+    "static/media/logo.svg": "/nirupama1210/pro-hooks-react.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/nirupama1210/pro-hooks-react.git/index.html",
+    "main.c116da79.css.map": "/nirupama1210/pro-hooks-react.git/static/css/main.c116da79.css.map",
+    "main.6ac7df19.js.map": "/nirupama1210/pro-hooks-react.git/static/js/main.6ac7df19.js.map",
+    "787.5508703c.chunk.js.map": "/nirupama1210/pro-hooks-react.git/static/js/787.5508703c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c116da79.css",
+    "static/js/main.6ac7df19.js"
+  ]
+}
